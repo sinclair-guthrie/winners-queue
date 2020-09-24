@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/winners-queue/static/css/main.5f361e03.chunk.css",
-    "main.js": "/winners-queue/static/js/main.2578061d.chunk.js",
-    "main.js.map": "/winners-queue/static/js/main.2578061d.chunk.js.map",
+    "main.js": "/winners-queue/static/js/main.72ff84d5.chunk.js",
+    "main.js.map": "/winners-queue/static/js/main.72ff84d5.chunk.js.map",
     "runtime-main.js": "/winners-queue/static/js/runtime-main.c8c1f7db.js",
     "runtime-main.js.map": "/winners-queue/static/js/runtime-main.c8c1f7db.js.map",
     "static/js/2.2d3d8c77.chunk.js": "/winners-queue/static/js/2.2d3d8c77.chunk.js",
     "static/js/2.2d3d8c77.chunk.js.map": "/winners-queue/static/js/2.2d3d8c77.chunk.js.map",
     "index.html": "/winners-queue/index.html",
-    "precache-manifest.f3fa11f9f87c9696da90a01bef2f7f1f.js": "/winners-queue/precache-manifest.f3fa11f9f87c9696da90a01bef2f7f1f.js",
+    "precache-manifest.07705e1b5a0cca24f5ac22de08777ab9.js": "/winners-queue/precache-manifest.07705e1b5a0cca24f5ac22de08777ab9.js",
     "service-worker.js": "/winners-queue/service-worker.js",
     "static/css/main.5f361e03.chunk.css.map": "/winners-queue/static/css/main.5f361e03.chunk.css.map",
     "static/js/2.2d3d8c77.chunk.js.LICENSE.txt": "/winners-queue/static/js/2.2d3d8c77.chunk.js.LICENSE.txt"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.c8c1f7db.js",
     "static/js/2.2d3d8c77.chunk.js",
     "static/css/main.5f361e03.chunk.css",
-    "static/js/main.2578061d.chunk.js"
+    "static/js/main.72ff84d5.chunk.js"
   ]
 }
